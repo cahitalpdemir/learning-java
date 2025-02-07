@@ -4,4 +4,7 @@ public class World {
     String string = "World";
 
     String string2 = "Merhabalar";
+
+    String string3 = "Changes after the first push";
+
 }
